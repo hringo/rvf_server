@@ -10,6 +10,7 @@ package
 		private var oServer:Server;
 		private var oGame:Game;
 		//test
+		//test
 		//test2
 		public function Main()
 		{
