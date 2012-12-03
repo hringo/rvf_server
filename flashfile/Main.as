@@ -9,7 +9,7 @@ package
 	{
 		private var oServer:Server;
 		private var oGame:Game;
-		
+		//test
 		public function Main()
 		{
 			oServer = new Server();
