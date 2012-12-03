@@ -11,6 +11,7 @@ package
 		private var oGame:Game;
 		//test
 		//test
+		//test4
 		//test2
 		public function Main()
 		{
